@@ -25,7 +25,7 @@ Por otra parte, al desarrollar en base a componentes reutilizables, permite que 
 
 ## **Arquitectura**
 
-![Arquitectura.](media/arquitectura.png "Arquitectura")
+
 
 La característica clave de la arquitectura de React es la composición de componentes. Los componentes desarrollados deben trabajar en conjunto. Por ejemplo, debería ser posible introducir algún estado local en un componente sin cambiar ninguno de los componentes que lo usen. Igualmente, debería ser posible añadir código de inicialización y destrucción a cualquier componente cuando sea necesario.
 
@@ -60,7 +60,7 @@ La capa de presentación es la que ve el usuario (también se la denomina "capa 
 
 ## **Programacion orientada a componentes**
 
-![Componentes.](media/componentes.png "Componentes")
+
 
 A continuación presentarán los modelos, conceptos y mecanismos fundamentales sobre los que se apoya actualmente el desarrollo de la aplicación EMI en el proyecto de Business Accelerator. En primer lugar, las arquitecturas software y los marcos de trabajo intentan ofrecer soluciones de diseño desde el punto de vista estructural de las aplicaciones, y de las relaciones entre sus componentes. A otro nivel se encuentra la programación orientada a componentes, un paradigma que propugna la construcción de componentes reutilizables en entornos abiertos y distribuidos. Basados en ellos, los modelos y plataformas de componentes proporcionan los mecanismos adecuados para tratar la complejidad de los problemas que aparecen en los sistemas abiertos y distribuidos. Finalmente, se describen algunas dificultades que se encontraron a lo largo de la planificación para construir el EMI desde cero, y los retos a los que se pretende alcanzar. 
 
@@ -108,7 +108,6 @@ El ciclo de vida es una serie de estados por los cuales pasa todo componente a l
 
 En React es fundamental el ciclo de vida, porque hay determinadas acciones que debemos necesariamente realizar en el momento correcto de ese ciclo. Ese es el motivo por el que hay que tener conciencia sobre cuáles son las distintas etapas por las que pasa la ejecución de un componente React. Esto es algo específico de los componentes con estado, ya que los componentes sin estado tienen apenas un método que se usará para renderizar el componente y React no controlará su ciclo de vida a través de los métodos existentes. Montaje, actualización y desmontaje.
 
-![Ciclo de vida de un componente.](media/Lifecycle-component.png "Ciclo de vida de un componente")
 
 Cada componente tiene varios “métodos de ciclo de vida” que puedes sobrescribir para ejecutar código en momentos particulares del proceso.  En la lista de abajo, se presentarán los métodos de ciclo de vida comúnmente usados (en negrilla). El resto de ellos existen para casos de uso relativamente raros.
 
