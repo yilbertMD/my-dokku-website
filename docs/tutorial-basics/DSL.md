@@ -1,4 +1,4 @@
-# **DSL**
+# DSL
 
 DSL viene de las siglas en inglés "Domain-Specific Language" un DSL es un lenguaje ideado para expresar cierta parte de un sistema, por eso se dice que es un lenguaje de propósito específico. A diferencia de los lenguajes de propósito general.
 
