@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-Este repositorio consiste en visibilizar la importancia del proceso de Gestión del Conocimiento y su sistema de soporte el cual pretende establecer una ventaja competitiva en LSV-TECH bajo un ambiente de colaboración y transferencia del mismo.
+BA Este repositorio consiste en visibilizar la importancia del proceso de Gestión del Conocimiento y su sistema de soporte el cual pretende establecer una ventaja competitiva en LSV-TECH bajo un ambiente de colaboración y transferencia del mismo.
 El objetivo principal es crear un repositorio digital apoyado en estándares y
 herramientas basadas en software propios para mejorar la productividad y eficacia de la empresa en el desarrollo de sus proyectos y para tal fin se plantea la estructura de este repositorio (Product).
 Estructura del repositorio de Producto
