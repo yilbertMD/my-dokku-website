@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 ## **Descriptores**
  
 Son los que describen los eventos para el eventbus, los mensajes hacia el remoto, definiría como funciona el nombramiento, y el placeholdering, esto se debe tener en cuenta para cada elemento que requiera un descriptor.
