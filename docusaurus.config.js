@@ -78,12 +78,25 @@ const config = {
             position: 'left',
             label: 'Business Accelerator',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Training',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Productos',
+          },
+          {to: '/Docs/tutorial-basic/cattegorias', label: 'QA', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
+                    
         ],
       },
       footer: {
