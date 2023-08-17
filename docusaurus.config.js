@@ -90,7 +90,7 @@ const config = {
             position: 'left',
             label: 'Productos',
           },
-          {to: '/Docs/tutorial-basic/cattegorias', label: 'QA', position: 'left'},
+          {to: '/Docs/tutorial-basic/Cattegorias', label: 'QA', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
